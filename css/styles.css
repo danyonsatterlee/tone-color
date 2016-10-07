@@ -1,0 +1,17 @@
+div{
+width: 200px;
+
+height: 200px;
+box-shadow: inset 13px 14px 15px 15px black;
+display:inline-block;
+
+
+}
+
+audio{
+  display: none;
+}
+
+body{
+  background-color:black;
+}
